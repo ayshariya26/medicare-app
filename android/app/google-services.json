@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "29733518983",
+    "project_id": "medicare-dbde4",
+    "storage_bucket": "medicare-dbde4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29733518983:android:c202c71b95548fc699c222",
+        "android_client_info": {
+          "package_name": "com.aysha.medicare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmVHcnd7siBVvAZDk6X991qDDF9kVl0Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
